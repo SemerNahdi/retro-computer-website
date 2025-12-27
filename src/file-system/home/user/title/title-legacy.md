@@ -7,9 +7,9 @@
 
 
 #  Hi there,
-#  *I'm Edward*
-#  -Creative Developer
-##     — Computer Science graduate of
-##        the University of Melbourne
+#  *I'm Semer Nahdi*
+#  -Big Data - AI Engineer
+##     — Final Year student of
+##        the University of Polytech INTL 
 ##
 ###   *Scroll* or type "help" to get started

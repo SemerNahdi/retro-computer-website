@@ -3,14 +3,15 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Semer*
 
-##   • Software Engineer
-##   • Digital Designer
-
-
+##   • AI Engineer
+##   • Big Data Engineer
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+
+
+
+### Welcome to SM-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
